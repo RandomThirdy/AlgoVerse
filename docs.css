@@ -41,7 +41,6 @@
 .container_docs blod{
     font-weight: 500;
 }
-
 .container_docs:hover{
     box-shadow: 0 0 20px 0px rgba(13, 14, 13, 0.644);
     transition: 0.5s;
