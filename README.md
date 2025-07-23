@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RandomThirdy/Sari-Tech/main/images/preview.png" alt="Sari-Tech Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/RandomThirdy/AlgoVerse/main/images/algoverse.png" alt="AlgoVerse Preview" width="600"/>
 </p>
 
 <h1 align="center">AlgoVerse - CPU Scheduling Simulator</h1>
